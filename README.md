@@ -8,7 +8,7 @@ This is a base template for generating *Beamer* presentations from *Markdown* so
 
 ### Compilation with versionning
 
-	Add the versionning git tag in the slides, next to the date at the top ot beamer presentation. 
+Add the versionning git tag in the slides, next to the date at the top ot beamer presentation. 
 
 	make withversion
 
